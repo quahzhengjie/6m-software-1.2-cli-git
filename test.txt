@@ -2,4 +2,5 @@ this is testing 123
 to stage the change, "git add ."
 to commit with message "git commit -m "<comment>"
 check status of local repo to remote git status
-push to remote repo git remote -v
+check versioning " remote repo git remote -v
+push to repo git push origin main
