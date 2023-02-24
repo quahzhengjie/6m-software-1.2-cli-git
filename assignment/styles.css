@@ -1,0 +1,25 @@
+p {
+    background-color: pink;
+}
+
+li {
+    color:darkblue;
+}
+
+h3 {
+    font-style:italic;
+}
+
+img {
+    opacity: 0.9;
+    border-radius: 20%;
+}
+
+.avatar {
+    width:200px;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}

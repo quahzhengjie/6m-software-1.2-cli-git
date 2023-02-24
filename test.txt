@@ -4,3 +4,6 @@ to commit with message "git commit -m "<comment>"
 check status of local repo to remote git status
 check versioning " remote repo git remote -v
 push to repo git push origin main
+p
+pull request - merge changes from 1 branch to another.
+merge forked repo to another
